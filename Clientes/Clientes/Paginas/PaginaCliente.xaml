@@ -18,7 +18,7 @@
             <Entry x:Name="txtTelefono" Placeholder="Celular" />
 
             <StackLayout Orientation="Horizontal">
-                <Label Text="¿Esta habilitado?" VerticalOptions="CenterAndExpand"/>
+                <Label Text="¿Esta Habilitado?" VerticalOptions="CenterAndExpand"/>
                 <Switch x:Name="swtActivo" VerticalOptions="CenterAndExpand"/>
             </StackLayout>
 
